@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mihir-joshi-full-stack" target="blank"><img align="center" src="" alt="https://www.linkedin.com/in/mihir-joshi-full-stack" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mihir-joshi-full-stack" target="blank"><img align="center" src="https://assets.stickpng.com/images/6297a2f1e01809629f113598.png" alt="https://www.linkedin.com/in/mihir-joshi-full-stack" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

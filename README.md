@@ -22,6 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mihir-joshi-full-stack" target="_blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/popular-social-media-flat/48/Popular_Social_Media-22-512.png" alt="https://www.linkedin.com/in/mihir-joshi-full-stack" height="60" width="60" /></a>
+<a href="https://www.linkedin.com/in/mihir-joshi-full-stack" target="_blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" alt="https://www.linkedin.com/in/mihir-joshi-full-stack" height="60" width="60" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

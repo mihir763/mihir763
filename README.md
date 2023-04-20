@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently Internship [Dynamisers solutions](https://www.dynamisers.com/)
 
-- 📫 Meet For More Information **[https://www.linkedin.com/in/mihir-joshi-full-stack/]**
+- 📫 Meet For More Information **(https://www.linkedin.com/in/mihir-joshi-full-stack/)**
 
 - 👨‍💻 I’m finalist in SSIP Hackathon. [OCR Based Mark Extractor](https://github.com/mihir763/OCR-Mark-Extractor)
 
